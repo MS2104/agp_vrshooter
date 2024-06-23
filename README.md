@@ -13,7 +13,7 @@ The Rift Guardian is een wave-based survival shooter VR game met een ruimte them
 | ------ |  ------ |
 | Link naar online product backlog (Trello) | [Backlog]
 | Logboek (pdf)                             | [Logboek]
-| Game concept doc (pdf)                    | [GameDesignDoc]
+| Game concept doc (pdf)                    | [Game Design Doc]
    
 #### Producten Werkproces 2
 | Product  | Link |
