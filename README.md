@@ -1,3 +1,5 @@
+# [Also availible in english!](english/README.md)
+
 ## The Rift Guardian
 Project team: Devils Luck
 
